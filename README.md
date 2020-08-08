@@ -1,4 +1,4 @@
-# Disjoined_Set
+# Disjointed_Set
 
-Definition of disjoined set
+Definition of disjointed set
 use this structure to judge whether there's a circle in the graph
