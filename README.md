@@ -1,5 +1,2 @@
 # Disjoint_Set
-
-Definition of disjoint set
-use this structure to judge whether there's a circle in the graph
-including union by rank & path compression
+并查集的定义，使用并查集判断无向图中是否存在环，union by rank & path compression
